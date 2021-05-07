@@ -16,7 +16,7 @@
     "react-scripts": "3.4.1",
     "react-scroll-horizontal": "^1.6.4",
     "react-spinners": "^0.8.3",
-    "underscore": "^1.10.2"
+    "underscore": "^1.12.1"
   },
   "scripts": {
     "start": "react-scripts start",
